@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" role="img" aria-labelledby="title desc">
+  <title id="title">Download ZIP</title>
+  <desc id="desc">Download RadiAnt DICOM Viewer 2026.1 for Windows as a ZIP package</desc>
+  <rect x="1" y="1" width="258" height="62" rx="12" fill="#1769aa"/>
+  <path d="M77 19v13h14M84 12v20m-7 0 7 8 7-8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <text x="106" y="39" fill="#fff" font-family="Arial,sans-serif" font-size="19" font-weight="700">Download ZIP</text>
+</svg>
